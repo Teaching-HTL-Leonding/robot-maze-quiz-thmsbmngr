@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Maze.Robot/1.0.0": {
+        "dependencies": {
+          "Maze.Library": "1.0.0"
+        },
+        "runtime": {
+          "Maze.Robot.dll": {}
+        }
+      },
+      "Maze.Library/1.0.0": {
+        "runtime": {
+          "Maze.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Maze.Robot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Maze.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

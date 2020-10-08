@@ -1,0 +1,15 @@
+C:\Users\Bladonis\Documents\school\proo\robot-maze-quiz-thmsbmngr\Maze.Robot\bin\Debug\net5.0\Maze.Robot.deps.json
+C:\Users\Bladonis\Documents\school\proo\robot-maze-quiz-thmsbmngr\Maze.Robot\bin\Debug\net5.0\Maze.Robot.dll
+C:\Users\Bladonis\Documents\school\proo\robot-maze-quiz-thmsbmngr\Maze.Robot\bin\Debug\net5.0\ref\Maze.Robot.dll
+C:\Users\Bladonis\Documents\school\proo\robot-maze-quiz-thmsbmngr\Maze.Robot\bin\Debug\net5.0\Maze.Robot.pdb
+C:\Users\Bladonis\Documents\school\proo\robot-maze-quiz-thmsbmngr\Maze.Robot\bin\Debug\net5.0\Maze.Library.dll
+C:\Users\Bladonis\Documents\school\proo\robot-maze-quiz-thmsbmngr\Maze.Robot\bin\Debug\net5.0\Maze.Library.pdb
+C:\Users\Bladonis\Documents\school\proo\robot-maze-quiz-thmsbmngr\Maze.Robot\obj\Debug\net5.0\Maze.Robot.csprojAssemblyReference.cache
+C:\Users\Bladonis\Documents\school\proo\robot-maze-quiz-thmsbmngr\Maze.Robot\obj\Debug\net5.0\Maze.Robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bladonis\Documents\school\proo\robot-maze-quiz-thmsbmngr\Maze.Robot\obj\Debug\net5.0\Maze.Robot.AssemblyInfoInputs.cache
+C:\Users\Bladonis\Documents\school\proo\robot-maze-quiz-thmsbmngr\Maze.Robot\obj\Debug\net5.0\Maze.Robot.AssemblyInfo.cs
+C:\Users\Bladonis\Documents\school\proo\robot-maze-quiz-thmsbmngr\Maze.Robot\obj\Debug\net5.0\Maze.Robot.csproj.CoreCompileInputs.cache
+C:\Users\Bladonis\Documents\school\proo\robot-maze-quiz-thmsbmngr\Maze.Robot\obj\Debug\net5.0\Maze.Robot.csproj.CopyComplete
+C:\Users\Bladonis\Documents\school\proo\robot-maze-quiz-thmsbmngr\Maze.Robot\obj\Debug\net5.0\Maze.Robot.dll
+C:\Users\Bladonis\Documents\school\proo\robot-maze-quiz-thmsbmngr\Maze.Robot\obj\Debug\net5.0\ref\Maze.Robot.dll
+C:\Users\Bladonis\Documents\school\proo\robot-maze-quiz-thmsbmngr\Maze.Robot\obj\Debug\net5.0\Maze.Robot.pdb
